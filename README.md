@@ -19,3 +19,10 @@ The dataset and more information about the contest can be found at [DataCon2022]
 
 
 
+## REFERENCES：
+
+[1] DSN2022-Invoke-Deobfuscation: AST-Based and Semantics-Preserving Deobfuscation for PowerShell Scripts
+
+[2] [powershellprofiler](https://github.com/pan-unit42/public_tools/tree/master/powershellprofiler)
+
+[3] [PowerDecode](https://github.com/Malandrone/PowerDecode)
