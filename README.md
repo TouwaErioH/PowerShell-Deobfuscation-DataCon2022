@@ -1,7 +1,7 @@
 # PowerShell-Deobfuscation-DataCon2022
 
 ## Description
-Extract flags such as "ip:192.168.1.1" from the obfuscated powershell script.
+Extract flags such as "ip:192.168.1.1" from obfuscated powershell scripts.
 
 Running on a windows-10-professional-64_bit virtual machine.
 
