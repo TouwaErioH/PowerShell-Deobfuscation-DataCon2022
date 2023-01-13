@@ -1,0 +1,2 @@
+Import-Module ./package/PowerDecode.psd1
+PowerDecode .\First-Stage\ff145fb320d30c384d038886f9fc3dc1cc06130eab9c15b6e74228a8e0967f8b ./pdoutput/ff145fb320d30c384d038886f9fc3dc1cc06130eab9c15b6e74228a8e0967f8b-20221210-214250-result.txt 'Disabled' 'Not set' '2'

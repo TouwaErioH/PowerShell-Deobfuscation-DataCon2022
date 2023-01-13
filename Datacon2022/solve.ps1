@@ -1,0 +1,2 @@
+Import-Module .\Invoke-DeObfuscation.psd1
+DeObfuscatedMain -ScriptPath0 .\First-Stage\ffda1db2ae619c7c318e72c00d208fd58a7d938443620f231676f34454928886
